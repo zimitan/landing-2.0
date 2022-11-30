@@ -1,0 +1,15 @@
+.heading {
+  border-top: 1px white solid;
+  background-color: #056fab;
+  width: 100%;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.heading_text {
+  color: white;
+  font-size: 40px;
+  display: flex;
+  width: 1000px;
+  margin: auto;
+}/*# sourceMappingURL=heading.css.map */

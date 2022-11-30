@@ -1,0 +1,19 @@
+.footer {
+  background-color: #0d6dc2;
+}
+
+.footer_full_block {
+  width: 1000px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer_left_block_text {
+  display: flex;
+}
+
+.footer_text {
+  color: white;
+  padding-left: 20px;
+}/*# sourceMappingURL=footer.css.map */

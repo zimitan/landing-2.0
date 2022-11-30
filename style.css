@@ -1,0 +1,10 @@
+@import "main";
+@import "news";
+@import "body";
+@import "heading";
+@import "header";
+@import "footer";
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
